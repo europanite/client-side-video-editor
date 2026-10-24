@@ -533,7 +533,7 @@ const App: FC = () => {
     setTrimEnd(t);
   };
 
-  const repo = "https://github.com/europanite/client_side_video_editor";
+  const repo = "https://github.com/europanite/client-side-video-editor";
 
   // --- Track colors ---
   const startPercent = duration > 0 ? (trimStart / duration) * 100 : 0;

@@ -2,7 +2,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/client_side_video_editor/",
+  base: "/client-side-video-editor/",
   assetsInclude: ["**/*.wasm"],
   optimizeDeps: {
     // IMPORTANT: let Vite skip pre-bundling @ffmpeg/ffmpeg
