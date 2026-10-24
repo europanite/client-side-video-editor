@@ -5,33 +5,33 @@ permalink: /es/
 lang: es
 ---
 
-# [Client Side Video Editor](https://github.com/europanite/client_side_video_editor "Client Side Video Editor")
+# [Client Side Video Editor](https://github.com/europanite/client-side-video-editor "Client Side Video Editor")
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![OS](https://img.shields.io/badge/OS-Linux%20%7C%20macOS%20%7C%20Windows-blue)
-[![CI](https://github.com/europanite/client_side_video_editor/actions/workflows/ci.yml/badge.svg)](https://github.com/europanite/client_side_video_editor/actions/workflows/ci.yml)
-[![docker](https://github.com/europanite/client_side_video_editor/actions/workflows/docker.yml/badge.svg)](https://github.com/europanite/client_side_video_editor/actions/workflows/docker.yml)
-[![pages](https://github.com/europanite/client_side_video_editor/actions/workflows/pages.yml/badge.svg)](https://github.com/europanite/client_side_video_editor/actions/workflows/pages.yml)
+[![CI](https://github.com/europanite/client-side-video-editor/actions/workflows/ci.yml/badge.svg)](https://github.com/europanite/client-side-video-editor/actions/workflows/ci.yml)
+[![docker](https://github.com/europanite/client-side-video-editor/actions/workflows/docker.yml/badge.svg)](https://github.com/europanite/client-side-video-editor/actions/workflows/docker.yml)
+[![pages](https://github.com/europanite/client-side-video-editor/actions/workflows/pages.yml/badge.svg)](https://github.com/europanite/client-side-video-editor/actions/workflows/pages.yml)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 <p align="right">
-  <a href="https://europanite.github.io/client_side_video_editor/">🇺🇸 English</a> |
-  <a href="https://europanite.github.io/client_side_video_editor/hi/">🇮🇳 हिंदी</a> |
-  <a href="https://europanite.github.io/client_side_video_editor/ja/">🇯🇵 日本語</a> |
-  <a href="https://europanite.github.io/client_side_video_editor/zh-CN/">🇨🇳 简体中文</a> |
-  <a href="https://europanite.github.io/client_side_video_editor/es/">🇪🇸 Español</a> |
-  <a href="https://europanite.github.io/client_side_video_editor/pt-BR/">🇧🇷 Português (Brasil)</a> |
-  <a href="https://europanite.github.io/client_side_video_editor/ko/">🇰🇷 한국어</a> |
-  <a href="https://europanite.github.io/client_side_video_editor/de/">🇩🇪 Deutsch</a> |
-  <a href="https://europanite.github.io/client_side_video_editor/fr/">🇫🇷 Français</a>
+  <a href="https://europanite.github.io/client-side-video-editor/">🇺🇸 English</a> |
+  <a href="https://europanite.github.io/client-side-video-editor/hi/">🇮🇳 हिंदी</a> |
+  <a href="https://europanite.github.io/client-side-video-editor/ja/">🇯🇵 日本語</a> |
+  <a href="https://europanite.github.io/client-side-video-editor/zh-CN/">🇨🇳 简体中文</a> |
+  <a href="https://europanite.github.io/client-side-video-editor/es/">🇪🇸 Español</a> |
+  <a href="https://europanite.github.io/client-side-video-editor/pt-BR/">🇧🇷 Português (Brasil)</a> |
+  <a href="https://europanite.github.io/client-side-video-editor/ko/">🇰🇷 한국어</a> |
+  <a href="https://europanite.github.io/client-side-video-editor/de/">🇩🇪 Deutsch</a> |
+  <a href="https://europanite.github.io/client-side-video-editor/fr/">🇫🇷 Français</a>
 </p>
 
 !["web_ui"](./assets/images/web_ui.png)
 
- [PlayGround](https://europanite.github.io/client_side_video_editor/)
+ [PlayGround](https://europanite.github.io/client-side-video-editor/)
 
 Un editor de video gratuito, del lado del cliente y basado en el navegador.
 
